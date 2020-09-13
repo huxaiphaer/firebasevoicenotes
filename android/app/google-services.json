@@ -1,0 +1,139 @@
+{
+  "project_info": {
+    "project_number": "270177997083",
+    "firebase_url": "https://new-vision-app.firebaseio.com",
+    "project_id": "new-vision-app",
+    "storage_bucket": "new-vision-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270177997083:android:80e4a1998b88a01d50c3be",
+        "android_client_info": {
+          "package_name": "com.newvision.digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270177997083-ulpfske9f5kslf8r281tt85p8p7cr0q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DyzDjARskYY7rydLEykGYR_-xwJfRqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270177997083-he4po0q1dgfg6qq2cfqtt41hdeoas6ml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270177997083-en4j7633rmonp6jtu18qlj97dndrttat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "idex.newvisionapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270177997083:android:413e39dfdd80713850c3be",
+        "android_client_info": {
+          "package_name": "idex.newvisionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270177997083-vb3eppbn6vo7kc842vkt4tl3n8d0pj4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idex.newvisionapp",
+            "certificate_hash": "0f34ca20b1cbae36d140a0673b6e69aa159328ce"
+          }
+        },
+        {
+          "client_id": "270177997083-l3phqhbr5nrfu0o2q04gnd4u51852msi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idex.newvisionapp",
+            "certificate_hash": "64fff4bcff86eed69190567d0abef01606cdb795"
+          }
+        },
+        {
+          "client_id": "270177997083-67ae8jtqqfcqq74i9thtplcekk7fbdv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idex.newvisionapp",
+            "certificate_hash": "22535cf937976e9553f238342a67cdf252d040a0"
+          }
+        },
+        {
+          "client_id": "270177997083-j1eoavg2pllh55j9pppkemigom0aft47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idex.newvisionapp",
+            "certificate_hash": "35316b5a8d70f3c7641e11fad8625eb5dc69a087"
+          }
+        },
+        {
+          "client_id": "270177997083-tpp21f7gjt6ed8rsqf292mic29sncofs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idex.newvisionapp",
+            "certificate_hash": "d71e252e9924ea640e9c725bbee2887cbf9f135b"
+          }
+        },
+        {
+          "client_id": "270177997083-kst29lm9nniil6fduufenjce612q3845.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idex.newvisionapp",
+            "certificate_hash": "c94d750c780dadb406f8ff1741a85b201cc39a21"
+          }
+        },
+        {
+          "client_id": "270177997083-6a0coq48i6tiir8i4q8sfr07lpuo3qhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idex.newvisionapp",
+            "certificate_hash": "5f4050925a7c944e66a91aad523b91118b225ab3"
+          }
+        },
+        {
+          "client_id": "270177997083-ulpfske9f5kslf8r281tt85p8p7cr0q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DyzDjARskYY7rydLEykGYR_-xwJfRqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270177997083-he4po0q1dgfg6qq2cfqtt41hdeoas6ml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270177997083-en4j7633rmonp6jtu18qlj97dndrttat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "idex.newvisionapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
